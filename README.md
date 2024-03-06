@@ -20,8 +20,8 @@ Remember, every line of code we write is a step towards a better future. Let's c
 <img src="https://github.com/sheng0321/sheng0321/assets/158591554/67a1ea90-d9ed-4879-aff8-6cb5f516967d" width="80"  height="80" />
 <img src="https://github.com/sheng0321/sheng0321/assets/158591554/4390ede1-ebef-4ea8-a01f-ed81f091dac9" width="200" />
 <img src="https://github.com/sheng0321/sheng0321/assets/158591554/ff104229-2ee0-49ec-ba26-d02341667a47" width="100" />
-<img src="https://github.com/sheng0321/sheng0321/assets/158591554/499741d0-c3dc-49ae-b81d-d231bac53d66" width="100" />
-<img src="https://github.com/sheng0321/sheng0321/assets/158591554/d27d6ff2-0960-4f2b-a6cc-35acd64764d8" width="100" />
+<img src="https://github.com/sheng0321/sheng0321/assets/158591554/499741d0-c3dc-49ae-b81d-d231bac53d66" width="71" />
+<img src="https://github.com/sheng0321/sheng0321/assets/158591554/d27d6ff2-0960-4f2b-a6cc-35acd64764d8" width="92" />
 <img src="https://github.com/sheng0321/sheng0321/assets/158591554/117709d3-97f1-4301-be6b-40fec5495b2d" width="100" />
 <img src="https://github.com/sheng0321/sheng0321/assets/158591554/36667920-5ebe-4419-8143-e6c5a5c802c7" width="100" />
 <img src="https://github.com/sheng0321/sheng0321/assets/158591554/8c2c5595-3d22-4ecb-95e3-ca78c854c57c" width="100" />
